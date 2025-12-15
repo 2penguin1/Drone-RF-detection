@@ -1,0 +1,4 @@
+Model,Accuracy
+RandomForest,0.801994301994302
+CatBoost,0.788034188034188
+Stacking,0.8122507122507122
